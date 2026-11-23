@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Watch Party</string>
+    <string name="home_subtitle">Dosto ke saath ek hi time par movie aur video dekho</string>
+    <string name="your_name_label">Your name</string>
+    <string name="your_name_placeholder">Apna naam likhein (min 2 chars)</string>
+    <string name="create_party">Create Party</string>
+    <string name="join_party">Join Party</string>
+    <string name="wifi_footer_hint">Same WiFi ya Hotspot par bina internet ke HD sync aur live voice chat</string>
+    <string name="select_video">Select Video from Phone</string>
+    <string name="generate_sample_video">Try Built-in HD Sample Video</string>
+    <string name="stream_quality_label">Sync Mode</string>
+    <string name="stream_instant">Ultra Fast Sync</string>
+    <string name="stream_smooth">Cinema Smooth</string>
+    <string name="create_room">Create Watch Party Room</string>
+    <string name="lock_room">Lock room</string>
+    <string name="unlock_room">Unlock room</string>
+    <string name="start_party">Start Watch Party</string>
+    <string name="start_anyway">Play Now</string>
+    <string name="scan_qr_code">Scan QR code</string>
+    <string name="host_ip_label">Host IP</string>
+    <string name="room_code_label">Room code</string>
+    <string name="join_btn">Join Party</string>
+    <string name="leave_party">Leave Party</string>
+    <string name="end_party">End Party</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="party_ended_title">Party khatam hui</string>
+    <string name="party_ended_subtitle">Watch party session samaapt ho gaya hai. Sabhi temporary files clean kar di gayi hain.</string>
+    <string name="unsupported_format_error">Format supported nahi (Sirf MP4 H.264/AAC video select karein)</string>
+    <string name="chat_placeholder">Message likho...</string>
+    <string name="send">Send</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Watch Party",
+  "description": "Same-WiFi local video watch party with chunked streaming, synchronized playback, live chat, and reactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
